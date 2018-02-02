@@ -1,0 +1,13 @@
+{
+        "rendering_size" :{
+        "width" : 1280,
+        "height" : 720
+        },
+        "keyboard" :{
+        "use" :false,
+        "color" :"BLACK"
+        },
+        "mode" : "key",
+        "user_agent" : "",
+        "console_log" : false
+}
