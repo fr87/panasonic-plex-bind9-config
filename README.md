@@ -38,5 +38,5 @@ If you get the IP you entered in db.lifeshow.com everting is fine.
 
 
 Go to your Panasonic Smart TV and install the Lifeshow App.
-In your TV Network Settings set "Aquire DNS Address to "Manual" and enter the IP of your apache server. Check your network status to see if everything is working. If the connection to the internet is successful start the Lifeshow App. 
+In your TV Network Settings set "Aquire DNS Address" to "Manual" and enter the IP of your apache server. Check your network status to see if everything is working. If the connection to the internet is successful start the Lifeshow App. 
 It should now start Plex on your Panasonic Smart TV.
