@@ -1,0 +1,6 @@
+// add following lines to this file
+
+    zone "lifeshow.com" {
+        type master;
+        file "/etc/bind/db.lifeshow.com";
+    };
